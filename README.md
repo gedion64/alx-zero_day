@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# 0x03-git
-=======
-<<<<<<< HEAD
+
 # 0x03-git
 =======
 # alx-zero_day
